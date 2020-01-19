@@ -1,3 +1,5 @@
 A submission for Google's Flutter Clock contest
 
-Written by: Zinzan hao
+Code written by: Zinzan Zhao, with templates provided by Google.
+Fonts provided by: Google.
+Icons sourced from: https://material.io/resources/icons/?style=twotone
